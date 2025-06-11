@@ -77,10 +77,5 @@ All rights reserved by Youssef Amr El Haker El Gamed for education and evaluatio
 
 ## 📬 Contact
 
-📧 Email: \[[orpitastudios@gmail.com](orpitastudios@gmail.com)]
+📧 Email: [orpitastudios@gmail.com](mailto:orpitastudios@gmail.com)\
 🐙 GitHub: [@YoussefAmrElHakerELGamed](https://github.com/YoussefAmrElHakerELGamed)
-
----
-
-🎉 *Happy Reviewing!*
-
